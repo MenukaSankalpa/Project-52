@@ -13,3 +13,6 @@ Install tailwindcss
 
 Install react-router-dom package to navigate pages 
 # npm install react-router-dom
+
+install motion package to add animations
+# npm i motion 

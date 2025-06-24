@@ -16,3 +16,6 @@ Install react-router-dom package to navigate pages
 
 install motion package to add animations
 # npm i motion 
+
+convert time
+# npm i moment  (go moment.js site and visit watch document )

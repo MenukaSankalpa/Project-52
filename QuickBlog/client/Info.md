@@ -19,3 +19,8 @@ install motion package to add animations
 
 convert time
 # npm i moment  (go moment.js site and visit watch document )
+
+install quil package 
+# npm i quill (Quill is a powerful rich text editor built in JavaScript. It provides a modern WYSIWYG (What You See Is What You Get) editor experience for web applications.)
+
+3.06 have wtach 

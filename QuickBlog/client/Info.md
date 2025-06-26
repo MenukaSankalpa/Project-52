@@ -23,4 +23,9 @@ convert time
 install quil package 
 # npm i quill (Quill is a powerful rich text editor built in JavaScript. It provides a modern WYSIWYG (What You See Is What You Get) editor experience for web applications.)
 
-3.06 have wtach 
+
+# After done backend install 
+npm i axios 
+
+to display notification error display we are using package call 
+# npm i react-hot-toast

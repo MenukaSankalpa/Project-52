@@ -13,3 +13,7 @@ multer -> to upload files
 
 # npm run server (to run server)
 we can  know if server is working using http://localhost:3000  running new window 
+
+to store our image cloud data storage we are using imagekit.io 
+# npm install imagekit --save
+

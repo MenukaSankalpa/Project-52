@@ -29,3 +29,5 @@ npm i axios
 
 to display notification error display we are using package call 
 # npm i react-hot-toast
+
+6.15
